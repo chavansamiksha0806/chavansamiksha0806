@@ -1,7 +1,7 @@
 # Hi 👋, I'm Samiksha Chavan
 
 🎓 TY B.Sc. Computer Science Student  
-💻 Learning Python, SQL, DSA & Web Development  
+💻 Learning Python, SQL, DSA   
 📊 Exploring Data Science and AI/ML  
 🚀 Building projects and improving my problem-solving skills
 
@@ -56,7 +56,6 @@ Flask-based management system for farmers, milk collection, quality records and 
 - Data Structures & Algorithms
 - SQL
 - DBMS
-- REST APIs
 - Data Science
 - Machine Learning
 
