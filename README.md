@@ -30,7 +30,6 @@
 - HTML
 - CSS
 - Flask
-- REST API
 
 ### Data Science
 - Pandas
@@ -42,7 +41,6 @@
 - Git
 - GitHub
 - VS Code
-- Postman
 
 ## 📌 Projects
 
@@ -51,9 +49,6 @@ Python machine learning project for predicting student performance.
 
 ### 🥛 Milk Dairy Management System
 Flask-based management system for farmers, milk collection, quality records and payments.
-
-### 📚 Library Management REST API
-RESTful API project for managing books and library operations.
 
 ## 📚 Currently Learning
 
