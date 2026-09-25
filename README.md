@@ -50,6 +50,11 @@ Python machine learning project for predicting student performance.
 ### 🥛 Milk Dairy Management System
 Flask-based management system for farmers, milk collection, quality records and payments.
 
+### 🐍 Python Basics Practice
+Collection of Python practice programs focused on programming fundamentals and problem-solving.
+
+### 🧮 Calculator
+Simple command-line calculator built with Python to practice programming fundamentals.
 ## 📚 Currently Learning
 
 - Python
